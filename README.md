@@ -1,7 +1,7 @@
 # EduMate - Your Study Buddy
 
 ## Overview
-This project implements a **Retrieval-Augmented Generation (RAG) system** using **PDF data** and serves it via a **FastAPI** endpoint. Additionally, an **Agent** is integrated to utilize tools and orchestrate the whole system.
+This project implements a **Retrieval-Augmented Generation (RAG) system** using **PDF data** and serves it via a **FastAPI** endpoint. Additionally, an **Agent** is integrated to utilize tools and orchestrate the whole system. This was built using **langgraph and langchain**.
 
 ## Features
 1. **RAG System**: A FastAPI endpoint to handle user queries, using a Vector Database for document retrieval.
